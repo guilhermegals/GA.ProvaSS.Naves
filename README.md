@@ -11,3 +11,5 @@ Projeto desenvolvido com a tecnologia Unity para a prova de seleção.
 # Tecnologias Utilizados
 * Unity
 * C#
+
+**Desenvolvido por Guilherme Augusto Leite Santos em 2019**
